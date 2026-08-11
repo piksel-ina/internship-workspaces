@@ -22,4 +22,4 @@ Each program has its own directory under `programmes/`. Its README defines the p
 
 Templates provide a shared starting point for daily logs and weekly recaps.
 
-See `CONTRIBUTING.md` for the shared working conventions.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for the shared working conventions.
