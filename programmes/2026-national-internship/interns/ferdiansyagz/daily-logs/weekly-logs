@@ -1,0 +1,19 @@
+## Highlights
+
+* Hands-On Hydrological Modeling: Successfully practiced the end-to-end workflow for flood hazard mapping using the Geomorphic Flood Index (GFI). This included processing FABDEM data with TauDEM for terrain and hydrological preprocessing.
+* New Tool Introduction: Initiated the study of HydroMT, a powerful tool for hydrological modeling, and researched its specific data requirements and workflows.
+
+## What I learned
+
+* Core Concepts: Gained a fundamental understanding of the Geomorphic Flood Index (GFI) and its application in flood hazard mapping.
+* Tools & Workflows:
+  * Practical experience using FABDEM and TauDEM for terrain preprocessing.
+  * Explored the basic setup and data input needs for HydroMT-based hydrological modeling.
+  * Reviewed and tested infrastructure skills with Docker and GitFlow.
+* Technical Insight: Identified that the core workflow for flood hazard mapping and hydrological modeling is heavily reliant on Digital Elevation Model (DEM) data.
+
+## Focus or support needed next week
+
+* Primary Priority: Deepen the understanding of HydroMT to progress beyond the basics and begin applying it to practical modeling tasks.
+* Technical Exploration: Research and learn methods to improve DEM quality and resolution to enhance the accuracy of subsequent models.
+* Support: Guidance on how to effectively utilize HydroMT in the context of the current internship project, and any specific datasets recommended for the next steps.
