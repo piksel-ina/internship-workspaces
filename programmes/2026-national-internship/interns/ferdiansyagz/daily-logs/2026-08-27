@@ -1,0 +1,15 @@
+## Done
+
+* Installed Ubuntu/Debian Linux on the PC for the development environment.
+* Tested HydroMT processing using a complete dataset.
+* Prepared the HydroMT environment for flood hazard map processing.
+
+## Blocker / question
+
+* None. The activities were completed without any significant issues.
+
+## Next
+
+* Continue testing the HydroMT processing workflow.
+* Further explore the flood hazard mapping workflow and required datasets.
+* Continue preparing the development environment for HydroMT-based processing.
