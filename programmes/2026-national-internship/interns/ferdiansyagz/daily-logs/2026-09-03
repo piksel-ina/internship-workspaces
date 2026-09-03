@@ -1,0 +1,13 @@
+## Done
+
+* Set up and ran Piksel-Core (Open Data Cube) on the ThinkStation via Docker (postgres, odc, jupyter-dev) — full troubleshooting: port conflict, network attachment, dependency/schema mismatch
+* Installed and made visualization libraries permanent (datacube, matplotlib, rioxarray, leafmap, ipyleaflet, localtileserver) by editing the jupyter-dev Dockerfile
+
+## Blocker / question
+
+* none 
+
+## Next
+
+* Continue exploring bi-temporal dNBR analysis (pre/post fire) for the forest-fire study, after indexing a more precise area and time range
+* Set up Datacube Explorer (Cubedash) to visually verify indexing results on localhost
