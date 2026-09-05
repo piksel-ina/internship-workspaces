@@ -1,0 +1,15 @@
+## Highlights
+
+* Set up and troubleshot Piksel-Core/Open Data Cube locally using Docker.
+* Explored Datacube Catalog and forest-fire processing in Kalimantan.
+* Practiced Git workflow and investigated HydroMT issues.
+
+## What I learned
+
+* Docker-based Piksel-Core setup, indexing, and visualization tools.
+* Basic Git workflow and initial AI-agent automation concepts.
+
+## Focus or support needed next week
+
+* Continue exploring Cubedash and bi-temporal dNBR analysis.
+* Continue troubleshooting HydroMT and improving Git workflow.
